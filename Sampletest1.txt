@@ -1,1 +1,3 @@
-This is my first code file 
+This is my first code file
+
+I am a Jave developer and I am developing a gaming project
